@@ -1,0 +1,10 @@
+{
+  "SSID": "SSID",
+  "Password": "Password",
+  "Bearer": "Bearer yourBearer",
+  "MQTT": "MQTT Access Link",
+  "Port": 1234,
+  "ClientID": "yourPicoID",
+  "User": "yourUser",
+  "Pass": "userPassword"
+}
